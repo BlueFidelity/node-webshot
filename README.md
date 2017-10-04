@@ -1,5 +1,8 @@
 # bfn-webshot
 
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+
 Webshot provides a simple API for taking webpage screenshots. The module is a
 light wrapper around PhantomJS, which utilizes WebKit to perform the page
 rendering.
@@ -267,3 +270,8 @@ that the [imagemagick CLI tools](http://www.imagemagick.org) be installed.
 ## License
 
 [MIT](LICENSE)
+
+[npm-image]: https://img.shields.io/npm/v/bfn-webshot.svg
+[npm-url]: https://npmjs.org/package/bfn-webshot
+[travis-image]: https://img.shields.io/travis/BlueFidelity/node-webshot/master.svg
+[travis-url]: https://travis-ci.org/BlueFidelity/node-webshot
