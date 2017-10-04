@@ -19,11 +19,7 @@ describe('paperSize', function() {
 
     webshot('example.com', pdfOutput, options, function(err) {
       if (err) return done(err);
-
-      im.identify(pdfOutput, function(err, features) {
-        console.log(features);
-        done();
-      });
+      done();
     });
   });
 });
