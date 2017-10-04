@@ -262,10 +262,7 @@ that the [imagemagick CLI tools](http://www.imagemagick.org) be installed.
 [See this comment.](https://github.com/brenden/node-webshot/issues/25#issuecomment-23019665)
 
 ## Grunt
-[grunt-webshot](https://npmjs.org/package/grunt-webshot) is a Grunt wrapper for this package.
-
-## CLI
-[webshot-cli](https://npmjs.org/package/webshot-cli) is a CLI interface for this package.
+[grunt-webshot](https://npmjs.org/package/bfn-grunt-webshot) is a Grunt wrapper for this package.
 
 ## License
 
