@@ -1,23 +1,17 @@
 {
-  "name": "webshot",
-  "version": "0.18.0",
+  "name": "bfn-webshot",
+  "version": "1.0.0",
   "description": "Easy website screenshots",
-  "author": "Brenden Kokoszka",
-  "contributors": [
+  "author": "Blue Fidelity Inc. (https://www.bluefidelity.com/)",
+  "homepage": "https://www.bluefidelity.com/",
+  "license": "MIT",
+  "maintainers": [
     {
-      "name": "Brenden Kokoszka",
-      "email": "brenden.kokoszka@gmail.com"
-    },
-    {
-      "name": "Matthew Chase Whittemore",
-      "email": "mcwhittemore@gmail.com"
+      "email": "ouellettebrand@gmail.com",
+      "name": "brandouellette"
     }
   ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/brenden/node-webshot.git"
-  },
+  "repository": "BlueFidelity/node-webshot",
   "engine": [
     "node >=0.7.00"
   ],
